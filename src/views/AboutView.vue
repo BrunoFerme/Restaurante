@@ -13,7 +13,7 @@
 export default {
   data() {
    return{
-     refeicoes: ['hamburguer', 'ovo frito']
+     refeicoes: ['hamburguer', 'ovo frito','outro']
    } 
   },
   mounted (){
